@@ -26,3 +26,6 @@ Use flexbox to center elements https://css-tricks.com/snippets/css/a-guide-to-fl
 
 ## How to create a responsive header:
     1. Read https://www.w3schools.com/howto/howto_css_responsive_header.asp
+    
+## Tips
+    1. Buttons are clickable elements, should add cursor, :focus, :active, :hover and :disabled styles.
