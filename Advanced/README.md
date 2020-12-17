@@ -14,7 +14,7 @@ Use flexbox to center elements https://css-tricks.com/snippets/css/a-guide-to-fl
 
 ## How to import a font family:
     1. Watch tutorial https://www.youtube.com/watch?v=Z3JR6mEWEEo&ab_channel=IanSchoonover
-    2. Imports fonts from https://fonts.google.com/
+    2. Import fonts from https://fonts.google.com/
 
 ## How to use font awesome icons:
     1. Get icons from https://fontawesome.com/icons?d=gallery
