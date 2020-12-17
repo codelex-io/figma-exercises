@@ -42,3 +42,6 @@ Use flexbox to center elements https://css-tricks.com/snippets/css/a-guide-to-fl
 
 ## How to create custom tooltip:
     1. Read https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/
+    
+## Tips
+    1. All buttons are clickable elements, don't forget to add cursor(https://www.w3schools.com/cssref/pr_class_cursor.asp) and :hover. :active, :focus, :disabled styles.
