@@ -19,7 +19,7 @@ It is strongly advised to do the `Basic` excercises first and research [Guide to
 
 ## How to use FONT AWESOME icons:
 1. Get icons from: [FONT AWESOME](https://fontawesome.com/icons?d=gallery)
-2. Between the <head></head> tags in `index.html` add: 
+2. Between the `<head></head>` tags in `index.html` add: 
 
     `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />`
 
