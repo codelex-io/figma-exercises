@@ -21,7 +21,7 @@ Use flexbox to center elements https://css-tricks.com/snippets/css/a-guide-to-fl
     2. In the <head></head> element add: 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
 
-## How to move elements on top of eachother:
+## How to move elements on top of each other:
     1. Read about positions https://css-tricks.com/almanac/properties/p/position/
     2. Read about z-index https://css-tricks.com/almanac/properties/z/z-index/
 
