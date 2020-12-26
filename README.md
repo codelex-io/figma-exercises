@@ -1,10 +1,20 @@
 # Figma exercises
-Your task is to edit html and css files in each sub-directory of Basic and Advanced directories to match the designs in provided figma files.
-
-Only copy colors, fonts, sizes, all other provided values probably won't give the desired result in your files.
+Your task is to edit `index.html` and `styles.css` files in each sub-directory of `Basic` and `Advanced` directories to match the designs in the provided figma files.
 
 Read the README.md files in each directory.
 
-# How to get styles from figma
+*Only copy colors, fonts, sizes, all other provided values probably won't give the desired result in your files.
+
+## How to access figma files?
+
+1. Create a profile in [figma.com](figma.com).
+2. Download the provided `.fig` files from `Assets` directory.
+3. Add the downloaded `.fig` files to your `Drafts` in the figma homepage. 
+
+    [Importing files into Figma](https://help.figma.com/hc/en-us/articles/360041003114-Import-files-into-Figma)
+
+4. Open the files from `Drafts`.
+
+## How to get styles from figma
 
 ![Figma tutorial](Assets/figma-tutorial.gif)
