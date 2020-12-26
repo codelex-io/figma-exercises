@@ -1,8 +1,8 @@
  # BASIC EXERCISES
- 
-To complete advanced exercises you will need to use everything you know as well as what you don't yet know about CSS and HTML.
 
-It is advised to research [Guide to FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [FLEXBOX GRID](http://flexboxgrid.com/) and [Guide to CSS GRID](https://css-tricks.com/snippets/css/complete-guide-grid/) as well as [Positions in CSS](https://css-tricks.com/almanac/properties/p/position/).
+For most exercises it will be easy to find all the necessary CSS properties to copy the design, but one of the biggest problems is layout.
+
+It is advised to research [Guide to FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [FLEXBOX GRID](http://flexboxgrid.com/) and [Guide to CSS GRID](https://css-tricks.com/snippets/css/complete-guide-grid/).
 
 ## How to use FLEXBOX GRID
 
@@ -25,11 +25,6 @@ It is advised to research [Guide to FLEXBOX](https://css-tricks.com/snippets/css
 3. Add icon elements from font awesome like so: 
 
     `<i class="fab fa-angellist"></i>`
-
-## How to move elements on top of each other:
-1. Read: [Positions in CSS](https://css-tricks.com/almanac/properties/p/position/)
-
-2. Read: [z-index in CSS](https://css-tricks.com/almanac/properties/z/z-index/)
 
 ## How to create a responsive header:
 [Responsive header example]https://www.w3schools.com/howto/howto_css_responsive_header.asp
