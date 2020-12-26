@@ -9,6 +9,9 @@ Read the README.md files in each directory.
 
 1. Create a profile in [figma.com](figma.com).
 2. Download the provided `.fig` files from `Assets` directory.
+
+![Figma tutorial](Assets/figma-download.gif)
+
 3. Add the downloaded `.fig` files to your `Drafts` in the figma homepage. 
 
     [Importing files into Figma](https://help.figma.com/hc/en-us/articles/360041003114-Import-files-into-Figma)
