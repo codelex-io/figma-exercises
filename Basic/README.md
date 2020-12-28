@@ -27,7 +27,7 @@ It is advised to research [Guide to FLEXBOX](https://css-tricks.com/snippets/css
     `<i class="fab fa-angellist"></i>`
 
 ## How to create a responsive header:
-[Responsive header example]https://www.w3schools.com/howto/howto_css_responsive_header.asp
+[Responsive header example](https://www.w3schools.com/howto/howto_css_responsive_header.asp)
     
 ## Tips
 
