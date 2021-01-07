@@ -15,6 +15,10 @@ Read the README.md files in each directory.
 
 ![Extentions tutorial](Assets/extentions-tutorial.gif)
 
+## How to do the excercises? 
+
+![Excercise tutorial](Assets/excercise-tutorial.gif)
+
 ## How to access figma files?
 
 1. Create a profile in [figma.com](figma.com).
