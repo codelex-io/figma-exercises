@@ -1,9 +1,19 @@
 # Figma exercises
 Your task is to edit `index.html` and `styles.css` files in each sub-directory of `Basic` and `Advanced` directories to match the designs in the provided figma files.
 
+Each sub-directory is a seperate excercise.
+
 Read the README.md files in each directory.
 
-*Only copy colors, fonts, sizes, all other provided values probably won't give the desired result in your files.
+*Only copy colors, fonts and sizes from figma, all other provided values probably won't give the desired result in your files.
+
+## How to see your changes to files?
+
+1. On the left side of your code editor find `Extentions` marketplace.
+2. Search for `Live Server` plugin and add it to your code editor.
+3. Right click on one of your `index.html` files and select `Open with Live Server`, this will open a window in your default browser where you can can see all changes made to the `index.html` as you go.
+
+![Extentions tutorial](Assets/extentions-tutorial.gif)
 
 ## How to access figma files?
 
