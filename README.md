@@ -17,6 +17,8 @@ Read the README.md files in each directory.
 
 ## How to do the excercises? 
 
+Right click on this gif and download it to better see what's going on.
+
 ![Excercise tutorial](Assets/excercise-tutorial.gif)
 
 ## How to access figma files?
