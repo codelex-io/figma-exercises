@@ -13,6 +13,8 @@ Read the README.md files in each directory.
 2. Search for `Live Server` plugin and add it to your code editor.
 3. Right click on one of your `index.html` files and select `Open with Live Server`, this will open a window in your default browser where you can can see all changes made to the `index.html` as you go.
 
+*Don't forget to save your changes or turn on autosave
+
 ![Extentions tutorial](Assets/extentions-tutorial.gif)
 
 ## How to do the excercises? 
